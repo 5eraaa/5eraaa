@@ -1,4 +1,4 @@
-# Hi, I’m Mostafa Khaira
+# Salaam alaikum, I’m Mostafa Khaira
 ## Software Engineering Student
 
 - 👀 I'm interested in Computer fields especially Data science
