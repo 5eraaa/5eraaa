@@ -1,5 +1,5 @@
-#👋 Hi, I’m Mostafa Khaira
-##Software Engineering Student
+#Hi, I’m Mostafa Khaira
+## Software Engineering Student
 
 - 👀 I'm interested in Computer fields especially Data science
 - 🌱 I’m currently learning Data Science 
