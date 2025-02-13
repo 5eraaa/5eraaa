@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mostafa Khaira
-- 👀 I’m interested in Data Science and Computer 
+- 👀 I'm interested in Computer fields especially Data science
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Useful projects 
 - 📫 How to reach me [...](https://www.linkedin.com/in/mostafa-khaira-b3940b281/)
